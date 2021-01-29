@@ -67,11 +67,11 @@ div.banner-content h1 {
 
 #question-text {
     position: absolute;
-    margin: 0 50px;
+    /* margin: 0 50px; */
     color: #8E44AD;
     z-index: 1;
     font-size: 20px;
-    display: block;
+    /* display: block; */
 }
 
 div.banner-content img {
