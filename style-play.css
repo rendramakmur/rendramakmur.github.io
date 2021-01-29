@@ -71,8 +71,8 @@ div.banner-content h1 {
     color: #8E44AD;
     z-index: 1;
     font-size: 20px;
-    text-align: center;
-    display: block;
+    /* text-align: center; */
+    /* display: block; */
 }
 
 div.banner-content img {
@@ -185,7 +185,7 @@ div.footer-content img {
     }
 
     #question-text {
-        margin: auto 30px;
+        margin: auto;
     }
 
 }
