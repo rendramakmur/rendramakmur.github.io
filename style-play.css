@@ -172,7 +172,7 @@ div.footer-content img {
     width: auto;
 }
 
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 650px) { 
     #nav {
         display: none;
     }
