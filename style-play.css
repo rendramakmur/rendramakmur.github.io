@@ -202,7 +202,7 @@ div.footer-content img {
 
 }
 
-@media screen and (max-width: 368px) {
+@media screen and (max-width: 420px) {
     #question-card {
         width: 275px;
         height: auto;
