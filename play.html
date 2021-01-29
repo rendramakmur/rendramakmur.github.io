@@ -5,16 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style-play.css">
     <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&display=swap" rel="stylesheet">
-    <title>Welcome! - Outspokenspot</title>
+    <title>Be Honest - Outspokenspot</title>
 </head>
 <body>
     <header>
         <div id="logo">
-            <img src="assets/outspokenspot-6.png" alt="outspokenspot logo">
+            <a href="index.html"><img src="assets/outspokenspot-6.png" alt="outspokenspot logo"></a>
         </div>
         <nav id="nav">
             <ul>
-                <li><a href="#">About</a></li>
+                <li><a href="index.html">About</a></li>
                 <li><a href="intro.html">How to Play</a></li>
             </ul>
         </nav>
@@ -22,9 +22,12 @@
     <main>
         <div class="banner">
             <div class="banner-content">
-                <h1>Outspokenspot</h1>
-                <p>This is not a game, more like an intimate session with your friend, family, or your partner. Be honest, be outspoken.</p>
-                <a href="intro.html">How To Play</a>
+                <div id="div-card">
+                    <h1 id="question-text">Shuffle me!</h1>
+                    <img src="assets/blank-cards-3.png" alt="outspoketspot-cards" id='question-card'>
+                </div>
+                <a href="#" id='generate-question-btn' onclick="return false;">Pick a Random Card</a>
+                <audio src="assets/shuffeling-effect.mp3" type="audio/mpeg" id='sound-effect'></audio>
             </div>
         </div>
     </main>
