@@ -91,7 +91,7 @@ getQuestion.addEventListener('click', function() {
         // console.log(questions, 'sebelum');
         questions.splice(index, 1)
         // console.log(questions, 'sesudah');
-        if (questions.length < 0) {
+        if (questions.length <= 0) {
             question.innerHTML = 'Kamu telah menyelesaikan semua pertanyaan, thank you for playing!';
             questions.push(question.innerHTML);
             return;
