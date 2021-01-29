@@ -196,6 +196,10 @@ div.footer-content img {
         height: auto;
     }
 
+    main {
+        width: 100%;
+    }
+
 }
 
 /* Micro Clear Fix
