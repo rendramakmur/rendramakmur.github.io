@@ -95,7 +95,6 @@ div.banner-content img {
     margin: auto;
     bottom: 90px;
     z-index: 0;
-    display: flex;
 }
 
 div.banner-content p {
