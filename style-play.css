@@ -188,6 +188,7 @@ div.footer-content img {
     #question-text {
         margin: auto;
         padding: 80px;
+        font-size: 16px;
     }
 
     #question-card {
