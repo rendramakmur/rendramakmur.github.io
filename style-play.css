@@ -191,8 +191,9 @@ div.footer-content img {
         margin-left: 20px;
     }
 
-    main {
-        width: auto;
+    #question-card {
+        width: 350px;
+        height: auto;
     }
 
 }
