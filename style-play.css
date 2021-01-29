@@ -207,6 +207,10 @@ div.footer-content img {
         width: 275px;
         height: auto;
     }
+
+    #question-text {
+        font-size: 16px;
+    }
 }
 
 /* Micro Clear Fix
