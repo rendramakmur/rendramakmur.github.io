@@ -71,7 +71,7 @@ div.banner-content h1 {
     color: #8E44AD;
     z-index: 1;
     font-size: 20px;
-    display: block;
+    display: inline;
 }
 
 div.banner-content img {
