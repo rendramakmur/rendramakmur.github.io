@@ -172,7 +172,7 @@ div.footer-content img {
     width: auto;
 }
 
-@media screen and (max-width: 650px) { 
+@media screen and (max-width: 680px) { 
     #nav {
         display: none;
     }
@@ -187,8 +187,8 @@ div.footer-content img {
 
     #question-text {
         margin: auto;
-        padding: 80px;
-        font-size: 16px;
+        padding: 60px;
+        font-size: 18px;
     }
 
     #question-card {
