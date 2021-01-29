@@ -95,6 +95,7 @@ div.banner-content img {
     margin: auto;
     bottom: 90px;
     z-index: 0;
+    display: flex;
 }
 
 div.banner-content p {
@@ -185,7 +186,7 @@ div.footer-content img {
     }
 
     #question-text {
-        margin: 0 auto;
+        margin: auto 30px;
     }
 
 }
