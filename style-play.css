@@ -187,12 +187,12 @@ div.footer-content img {
 
     #question-text {
         margin: auto;
-        padding: 30px;
-        font-size: 18px;
+        padding: 20px;
+        font-size: 20px;
     }
 
     #question-card {
-        width: 450px;
+        width: 350px;
         height: auto;
     }
 
